@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*
+====================
+
+Tables Styles
+
+
+====================
+*/
+table{
+	border-collapse:collapse;
+}
+td,th{
+	border-bottom:1px solid #cecfd5;
+	padding:10px 15px;
+}
+thead{
+	background:#42444E;
+	color:#e2dede;
+}
+td:first-child{
+	text-align:left;
+	
+}
+td:last-child{
+	text-align:center;
+}
